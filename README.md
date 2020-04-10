@@ -20,13 +20,13 @@ $ npm install
 ### Producer
 
 ```shell
-$ npm run producer
+$ npm run producer [broker_kafka] [topic_name]
 ```
 
 ### Consumer
 
 ```shell
-$ npm run consumer
+$ npm run consumer [broker_kafka] [topic_name]
 ```
 
 ## License
