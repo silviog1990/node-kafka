@@ -5,7 +5,7 @@
 
 ## Installation
 
-- Require kafka installed (see `https://kafka.js.org/docs/running-kafka-in-development`)
+- Require kafka installed (see <https://kafka.js.org/docs/running-kafka-in-development>)
 
 ### Setup
 
